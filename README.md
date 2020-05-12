@@ -1,4 +1,4 @@
 # sample
 
-This is a sample test.
+This is a sample test. 
 
